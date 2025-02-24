@@ -2,29 +2,31 @@
 Frontend-Planung mit Figma für den Film- & Serien-Tracker (Angular + CouchDB)
 Figma ist perfekt, um das UI-Design deines Angular-Frontends visuell zu planen. Hier ist eine Schritt-für-Schritt-Anleitung, wie du das machst:
 
-1️⃣ Projektstruktur in Figma anlegen
+## 1️⃣ Projektstruktur in Figma anlegen
 🔹 Erstelle eine neue Datei in Figma
 🔹 Definiere deine Frames (Seiten)
 
 Desktop-Version (1440x1024 px)
 Mobile-Version (375x812 px, iPhone 13)
 🔹 Setze ein Grid oder Layout-Raster (8px oder 12px Grid für ein sauberes Design)
-2️⃣ Wichtige Screens entwerfen
+## 2️⃣ Wichtige Screens entwerfen
 Hier sind die Hauptseiten, die du in Figma designen solltest:
 
-📌 1. Startseite (Home)
-Header: Logo, Navigation, Suchleiste
-Hauptbereich:
-Empfohlene Filme & Serien (große Thumbnails)
-Trending Filme & Serien (Karussell oder Grid)
+## 📌 1. Startseite (Home)
+- Header: Logo, Navigation, Suchleiste
+- Hauptbereich:
+  - Empfohlene Filme & Serien (große Thumbnails)
+  - Trending Filme & Serien (Karussell oder Grid)
 Top-Bewertungen deiner Freunde
 Footer: Links, AGB, Impressum
-📌 2. Detailseite eines Films/Serie
+
+## 📌 2. Detailseite eines Films/Serie
 Filmcover + Titel
 Beschreibung, Genre, Jahr, Laufzeit
 Bewertungen & Rezensionen (von anderen Nutzern)
 "Zur Watchlist hinzufügen"-Button
-📌 3. Watchlist-Seite
+
+##📌 3. Watchlist-Seite
 Liste aller gespeicherten Filme & Serien
 Möglichkeit, sie als "Gesehen" zu markieren
 Sortier- und Filterfunktionen (z. B. nach Genre, Jahr)
