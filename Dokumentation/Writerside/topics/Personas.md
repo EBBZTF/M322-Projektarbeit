@@ -1,13 +1,13 @@
 # Personas
 
-## Persona 1: Max, der cineastische Entdecker
+## Persona 1: Max, der Film Entdecker
 
 Max ist 35, arbeitet als Ingenieur in München und ist ein echter Filmfan. 
 Schon als Kind hat er sich für die Magie des Kinos begeistert, und diese Leidenschaft hält bis heute an. 
-Er nutzt den Tracker, um jeden gesehenen Film mit einer persönlichen Note zu versehen – er bewertet, 
-sortiert und speichert seine Favoriten akribisch. Für Max ist die Merkliste wie eine Schatzkiste voller Empfehlungen, 
-auf die er immer zurückgreifen kann, wenn er Lust auf Neues hat. Der Austausch mit Freunden, 
-die ebenfalls regelmäßig ihre Filmhighlights teilen, rundet sein cineastisches Erlebnis ab. 
+Er nutzt den Tracker, um jeden gesehenen Film mit einer persönlichen Bewertung zu versehen. Er bewertet, 
+sortiert und speichert seine Favoriten sorgfältig und stets organisiert. Für Max ist die Merkliste wie eine 
+Schatzkiste voller Empfehlungen, auf die er immer zurückgreifen kann, wenn er Lust auf Neues hat. 
+Der Austausch mit Freunden, die ebenfalls regelmäßig ihre Filmhighlights teilen, rundet sein Erlebnis ab. 
 So wird der Tracker für ihn zu einem ständigen Begleiter auf seiner Entdeckungsreise durch die Welt des Films.
 
 ## Persona 2: Lisa, die Serienliebhaberin
@@ -20,9 +20,9 @@ Besonders schön findet sie den Austausch mit Freunden, die ihr regelmäßig neu
 Für Lisa ist der Tracker also nicht nur ein praktisches Tool, sondern auch eine Inspirationsquelle 
 für ihren nächsten gemütlichen Serienabend.
 
-## Persona 3: Jonas, der kritische Film- und Serienkritiker
+## Persona 3: Jonas, der Film- und Serienkritiker
 
-Jonas ist 42, Journalist und nimmt Filme und Serien sehr ernst – auch in seiner Freizeit. 
+Jonas ist 55, Journalist und nimmt Filme und Serien sehr ernst – auch in seiner Freizeit. 
 Jeder Film und jede Serie, die er anschaut, wird von ihm gründlich analysiert und in 
 detaillierten Rezensionen festgehalten. Mit dem Tracker behält er den Überblick über seine 
 zahlreichen Eindrücke und Bewertungen. Besonders schätzt er es, dass er so auch seine kritische 
@@ -32,10 +32,12 @@ um seinen persönlichen Filmgeschmack zu dokumentieren und ständig weiterzuentw
 
 ## Persona 4: Anna, die vernetzte Multimedia-Enthusiastin
 
-Anna, 24 und Studentin, ist total in die Welt der Filme und Serien verliebt. Für sie ist der Tracker 
-ein praktischer Begleiter, der ihr hilft, den Überblick über ihre vielen Empfehlungen und Bewertungen 
-zu behalten. Sie erstellt mit Begeisterung eigene Listen, bewertet jedes neue Erlebnis und teilt ihre 
-Tipps mit Freunden. Besonders wichtig ist ihr dabei der soziale Austausch – sie liebt es, sich über die 
-Aktivitäten ihrer Freunde und deren Empfehlungen inspirieren zu lassen. Annas Profil, das ihre Lieblingsgenres 
-und Statistiken übersichtlich darstellt, motiviert sie, immer wieder neue Filme und Serien auszuprobieren.
-Für sie ist die App nicht nur ein organisatorisches Tool, sondern eine echte Quelle der Inspiration für ihren nächsten Medienabend.
+Anna, 17 und Schülerin, ist total in die Welt der Filme und Serien verliebt. 
+Für sie ist der Tracker ein praktischer Begleiter, der ihr hilft, den Überblick über ihre vielen 
+Empfehlungen und Bewertungen zu behalten. Besonders an Wochenenden schätzt sie die willkommene Abwechslung 
+vom Schulalltag und nutzt die freie Zeit, um eigene Listen zu erstellen und jeden neuen Hit zu bewerten. 
+Sie liebt es, sich mit ihren Freunden über die neuesten Filme und Serien auszutauschen und so immer auf dem 
+Laufenden zu bleiben. Der soziale Austausch steht bei ihr im Mittelpunkt – sie ist stets gespannt, 
+welche Empfehlungen ihre Freunde haben. Annas Profil, das ihre Lieblingsgenres und Statistiken übersichtlich darstellt,
+motiviert sie, ständig neue Titel auszuprobieren. Für sie ist die App nicht nur ein organisatorisches Tool,
+sondern eine echte Quelle der Inspiration für entspannte Abende.
