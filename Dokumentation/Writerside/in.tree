@@ -4,9 +4,11 @@
 
 <instance-profile id="in"
                  name="Documentation"
-                 start-page="starter.md">
+                 start-page="Idea.md">
 
-    <toc-element topic="starter.md"/>
     <toc-element topic="Idea.md"/>
+    <toc-element topic="projektplan.md"/>
+    <toc-element topic="todo.md"/>
+    <toc-element topic="Personas.md"/>
 
 </instance-profile>
