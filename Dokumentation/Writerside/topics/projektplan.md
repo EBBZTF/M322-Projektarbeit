@@ -22,3 +22,6 @@ Ausserdem haben User die Möglichkeit, Listen mit Freunden zu teilen und gemeins
 Unser Ziel ist es, eine effiziente und ansprechende Lösung zu schaffen, 
 die sowohl Film- als auch Serienliebhaber anspricht. 
 Durch eine klare Struktur und einfache Interaktionen möchten wir das Verwalten von Inhalten mühelos machen. 
+
+## Arbeitsjournal:
+- 17.03.2025: NavBar erstellt, LoginPage erstellt, Farben, Schriften, Icons entschieden
