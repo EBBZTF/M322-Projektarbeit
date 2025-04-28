@@ -11,7 +11,8 @@
 ## Meilensteine:
 - 03.03.2025: Projekt definieren
 - 10.03.2025: grobe Planung machen, Personas erstellen
-- bis Frühlingsferien Wireframes erstellt und getestet
+- bis Frühlingsferien Wireframes erstellt
+- 05.05.2025 Wireframes testen/besprechen
 
 ## Projektbeschreibung:
 Unser Projekt befolgt das Ziel übersichtliche und selbsterklärende Anwendung zu gestalten,

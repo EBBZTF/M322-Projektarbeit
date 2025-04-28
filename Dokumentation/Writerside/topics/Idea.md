@@ -2,13 +2,13 @@
 
 ## Features
 
-- Startseite: filter für genres, suchleiste
-- Merkliste
-- already seen -> mit privater Bewertung
-- User mit Profil (preferierte genres, paar fakten über sich)
-- Nutzerbild, Username, Statistiken (gesehene Filme, Lieblingsgenres)
-- Freundesliste & deren Filmaktivitäten
-- Einstellungen (Passwort ändern, Account verwalten)
+~~- Startseite: filter für genres, suchleiste~~
+~~- Merkliste~~
+~~- already seen -> mit privater Bewertung~~
+- ~~User mit Profil (preferierte genres, paar fakten über sich)~~
+~~- Nutzerbild, Username, Statistiken (gesehene Filme, Lieblingsgenres)~~
+~~- Freundesliste & deren Filmaktivitäten~~
+~~- Einstellungen (Passwort ändern, Account verwalten)~~
 
 
 ## Umsetzung
