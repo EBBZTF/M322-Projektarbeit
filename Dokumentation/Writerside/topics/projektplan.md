@@ -25,3 +25,7 @@ Durch eine klare Struktur und einfache Interaktionen möchten wir das Verwalten 
 
 ## Arbeitsjournal:
 - 17.03.2025: NavBar erstellt, LoginPage erstellt, Farben, Schriften, Icons entschieden
+- 24.03.2025: weiter an den Wireframes gearbeitet
+- 31.03.2025: weiter an den Wireframes gearbeitet
+- 28.04.2025: Wireframes abgeschlossen
+- 02.05.2025: Verbindungen Wireframes verbessern
