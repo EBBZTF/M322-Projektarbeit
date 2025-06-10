@@ -21,10 +21,3 @@
 - create design system with all components
 - for text 4 to 6 variations not smaller than 16px, max 2 fonts (better one)
 
-- 5 to 6 color tones
-- transparency is also a new tone
-- one primary color, one secondary color
-- greys
-- signal colors
-
-- better use React and tailwind (angular too hard to use for this)
