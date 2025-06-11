@@ -1,23 +1,14 @@
 # TODO
 
-## lookup
+## Emma
 
-- design rationale (chatgpt)
-- Figma basics (youtube)
-- Figma Components videos (youtube)
-- accessibility (a11y) AAA & AA
-- user stories basics (youtube)
-- personas basics (youtube)
-- brutalism design
-- design tokens
-- design system template
-- 4px grid system 
-- variablen deklaration for colors etc.
+- User Stories
+- Designkonzept (wieso blau, light/ dark mode, brutalism design)
+Projektplan
 
-## other stuff
+## Giulia
 
-- user Stories
-- update personas
-- create design system with all components
-- for text 4 to 6 variations not smaller than 16px, max 2 fonts (better one)
-
+- Personas
+- Accessibility konzept (farben, vorlesefunktion → mit browser integriert)
+- Usability konzept
+- Auswertung Feedback
