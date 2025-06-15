@@ -1,6 +1,7 @@
 # Projektplan
 
 - Personas erstellen
+- User Stories erstellen
 - Meinlensteine definieren
 - Wireframes erstellen
 - Wireframes testen (Feedback aus Klasse)
@@ -13,6 +14,9 @@
 - 10.03.2025: grobe Planung machen, Personas erstellen
 - bis Frühlingsferien Wireframes erstellt
 - 05.05.2025 Wireframes testen/besprechen
+- bis 25.05.2025 Wireframes überarbeitet
+- bis 16.06.2025 Doku fertig
+- 16.06.2025 Projektpräsentation
 
 ## Projektbeschreibung:
 Unser Projekt befolgt das Ziel übersichtliche und selbsterklärende Anwendung zu gestalten,
@@ -29,4 +33,8 @@ Durch eine klare Struktur und einfache Interaktionen möchten wir das Verwalten 
 - 24.03.2025: weiter an den Wireframes gearbeitet
 - 31.03.2025: weiter an den Wireframes gearbeitet
 - 28.04.2025: Wireframes abgeschlossen
-- 02.05.2025: Verbindungen Wireframes verbessern
+- 05.05.2025: Verbindungen Wireframes verbessern
+- 12.05.2025: Feedback in Wireframes eingebaut
+- 19.05.2025: Feedback in Wireframes eingebaut
+- 26.05.2025: Doku schreiben
+- 14.06.2025: Doku schreiben

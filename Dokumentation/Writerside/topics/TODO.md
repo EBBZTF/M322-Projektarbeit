@@ -1,9 +1,6 @@
 # TODO
 
 ## Emma
-
-- User Stories
-- Designkonzept (wieso blau, light/ dark mode, brutalism design)
 Projektplan
 
 ## Giulia
