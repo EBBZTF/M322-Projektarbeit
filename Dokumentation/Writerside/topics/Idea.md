@@ -1,29 +1,37 @@
-# Idee: Film-& Serien-Tracker
+# Projektidee: Film- & Serien-Tracker – FilmLog
 
-## Features
+## Projektidee
 
-~~- Startseite: filter für genres, suchleiste~~
-~~- Merkliste~~
-~~- already seen -> mit privater Bewertung~~
-- ~~User mit Profil (preferierte genres, paar fakten über sich)~~
-~~- Nutzerbild, Username, Statistiken (gesehene Filme, Lieblingsgenres)~~
-~~- Freundesliste & deren Filmaktivitäten~~
-~~- Einstellungen (Passwort ändern, Account verwalten)~~
+Die App FilmLog ist ein digitaler Tracker für Filme und Serien. Nutzer:innen können damit ihre Watchlists verwalten, gesehene Inhalte bewerten, Profile erstellen und sich mit Freund:innen austauschen. Ziel ist es, einen zentralen Ort zu schaffen, an dem man den eigenen Film- und Serienkonsum übersichtlich dokumentieren und neue Inspiration erhalten kann – visuell ansprechend, einfach bedienbar und sozial vernetzt.
 
 
-## Umsetzung
+## Zentrale Features
 
-- Figma Wireframes
+- Startseite mit Navigation
+    - Übersichtlicher Einstieg mit Zugriff auf Filme, Serien, Profil und Freund:innen
+- Filme und Serien durchsuchen
+    - Darstellung als Kachelansicht mit Titel, Bild, Kurzinformation und Button für „Zur Merkliste hinzufügen“
+    - Alternativ: kompakte Listenansicht für schnellen Überblick
+- Detailseite zu Inhalten
+    - Mit Beschreibung, Bild, persönlicher Bewertung und Option „gesehen / merken“
 
-## Components
+- Watchlist und gesehene Inhalte
+    - Visuelle und/oder kompakte Listen von vorgemerkten oder bereits gesehenen Titeln
+    - Private Bewertungen und persönliche Notizen pro Titel
 
-- Header
-- Nav
-- Filme als Kachel in der Übersicht anzeigen (Titel, "Merkliste hinzufügen", evt. kurzbeschreibung)
-- Detailseite
+- User-Profile
+    - Nutzername, Profilbild, bevorzugte Genres, kurze Selbstbeschreibung
+    - Statistiken: Anzahl gesehener Inhalte etc.
 
-## Fragen
+- Freundesliste
+    - Andere Nutzer:innen finden und hinzufügen
+    - Einsicht in deren Bewertungen, Lieblingsgenres und letzte Aktivitäten
 
-- Wie würde das Hosting aussehen? oder kann man alles Lokal halten
+- Einstellungen
+    - Profil bearbeiten, Passwort ändern, Account verwalten
 
 
+## Technische Umsetzung
+
+- Wireframes und Design: 
+  Erste Entwürfe der Benutzeroberfläche wurden mit Figma erstellt, inklusive Navigation, Kartenansicht, Listenansicht und Detailseiten.

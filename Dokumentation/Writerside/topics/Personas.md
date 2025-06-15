@@ -1,34 +1,79 @@
 # Personas
 
-## Persona 1: Max, der Film Entdecker
-- Merklisten
-- Organisation
-Max ist 35, arbeitet als Ingenieur in München und ist ein echter Filmfan. 
-Schon als Kind hat er sich für die Magie des Kinos begeistert, und diese Leidenschaft hält bis heute an. 
-Er nutzt den Tracker, um jeden gesehenen Film mit einer persönlichen Bewertung zu versehen. Er bewertet, 
-sortiert und speichert seine Favoriten sorgfältig und stets organisiert. Für Max ist die Merkliste wie eine 
-Schatzkiste voller Empfehlungen, auf die er immer zurückgreifen kann, wenn er Lust auf Neues hat.
-So wird der Tracker für ihn zu einem ständigen Begleiter auf seiner Entdeckungsreise durch die Welt des Films.
+## Persona 1: Max – Der strukturierte Film-Entdecker
+- Alter: 35
+- Beruf: Ingenieur
+- Wohnort: Berlin
+- Schwerpunkt: Merklisten & Organisation
 
-## Persona 2: Jonas, der Film- und Serienkritiker
-- kritische Bewertungen
-Jonas ist 55, Journalist und nimmt Filme und Serien sehr ernst – auch in seiner Freizeit. 
-Jeder Film und jede Serie, die er anschaut, wird von ihm gründlich analysiert und in 
-detaillierten Rezensionen festgehalten. Mit dem Tracker behält er den Überblick über seine 
-zahlreichen Eindrücke und Bewertungen. Besonders schätzt er es, dass er so auch seine kritische 
-Sichtweise immer besser schärfen kann. Während er anspruchsvolle Dramen und Dokumentationen liebt,
-findet er in Actionfilmen oft spannende Abwechslung. Für Jonas ist der Tracker ein unverzichtbares Werkzeug, 
-um seinen persönlichen Filmgeschmack zu dokumentieren und ständig weiterzuentwickeln.
-Aufgrund seiner bisherigen Karriere und Erfahrungen sind ihm besonders die Erkennungsmerkmale und die Details sehr wichtig.
+### 1_Kurzbiografie:
+Max ist leidenschaftlicher Filmfan und liebt es, neue Filme zu entdecken – quer durch alle Genres, von Arthouse bis Action. Schon als Kind faszinierten ihn Kinobesuche, heute nutzt er Streamingdienste und Fachportale, um seinen Filmhorizont ständig zu erweitern. Er ist ein organisierter Typ, der gern den Überblick behält.
 
-## Persona 3: Anna, die vernetzte Multimedia-Enthusiastin
-- Austausch mit Freunden
-Anna, 17 und Schülerin, ist total in die Welt der Filme und Serien verliebt. 
-Für sie ist der Tracker ein praktischer Begleiter, der ihr hilft, den Überblick über ihre vielen 
-Empfehlungen und Bewertungen zu behalten. Besonders an Wochenenden schätzt sie die willkommene Abwechslung 
-vom Schulalltag und nutzt die freie Zeit, um eigene Listen zu erstellen und jeden neuen Hit zu bewerten. 
-Sie liebt es, sich mit ihren Freunden über die neuesten Filme und Serien auszutauschen und so immer auf dem 
-Laufenden zu bleiben. Der soziale Austausch steht bei ihr im Mittelpunkt – sie ist stets gespannt, 
-welche Empfehlungen ihre Freunde haben. Annas Profil, das ihre Lieblingsgenres und Statistiken übersichtlich darstellt,
-motiviert sie, ständig neue Titel auszuprobieren. Für sie ist die App nicht nur ein organisatorisches Tool,
-sondern eine echte Quelle der Inspiration für entspannte Abende.
+### 1_Nutzung der App:
+Für Max ist die FilmLog-App eine digitale Schatzkiste: Er erstellt strukturierte Merklisten, bewertet gesehene Filme sorgfältig und speichert Favoriten für später. Besonders schätzt er die Möglichkeit, seine Sammlung zu filtern, kompakt darzustellen und persönliche Notizen zu hinterlegen.
+
+### 1_Ziele:
+
+Eigene Filmhistorie langfristig dokumentieren
+
+Empfehlungen aus der Merkliste gezielt abrufen
+
+### 1_Probleme ohne App:
+
+Verzettelt sich zwischen mehreren Streamingplattformen
+
+Notizen und Empfehlungen gehen oft in Chats oder Listen unter
+
+Findet alte Filmideen nicht wieder
+
+## Persona 2: Jonas – Der kritische Film- und Serienanalyst
+- Alter: 55
+- Beruf: Journalist / Filmkritiker
+- Wohnort: London
+- Schwerpunkt: Kritische Bewertungen & Detailrecherche
+
+### 2_Kurzbiografie:
+Jonas ist ein erfahrener Kulturjournalist mit einem feinen Gespür für Filmkunst. Filme sind für ihn mehr als Unterhaltung – sie sind Ausdruck gesellschaftlicher Entwicklungen. Auch in seiner Freizeit analysiert er Serien und Filme in aller Tiefe. Seine Leidenschaft: anspruchsvolle Dramen, europäisches Kino und komplexe Serienplots.
+
+### 2_Nutzung der App:
+Jonas nutzt die FilmLog-App wie ein digitales Archiv: Er verfasst zu jedem Titel eine persönliche, oft sehr detaillierte Rezension. Er möchte nicht nur erinnern, was er gesehen hat – sondern warum es ihn bewegt (oder enttäuscht) hat. Dabei legt er großen Wert auf übersichtliche Infos, klare Struktur und differenzierte Bewertungsskalen.
+
+### 2_Ziele:
+
+Eigene Gedanken zu Filmen und Serien sammeln
+
+Bewertungen mit Notizen kombinieren
+
+Lieblingswerke katalogisieren und vergleichen
+
+### 2_Probleme ohne App:
+
+Fehlen einer strukturierten Übersicht über Rezensionen
+
+Unpraktisch, sich allein auf Gedächtnis oder Zettel zu verlassen
+
+## Persona 3: Anna – Die vernetzte Multimedia-Enthusiastin
+- Alter: 17
+- Beruf: Schülerin
+- Wohnort: Paris
+- Schwerpunkt: Austausch & Inspiration
+
+### 3_Kurzbiografie:
+Anna liebt Filme und Serien, besonders Coming-of-Age, Fantasy und Musikdokus. Für sie ist das Streamen ein festes Abendritual – allein oder mit Freund:innen. Sie entdeckt gerne neue Inhalte über TikTok oder Empfehlungen im Freundeskreis und probiert ständig Neues aus.
+
+### 3_Nutzung der App:
+Für Anna ist die FilmLog-App mehr als nur ein Tracker – sie ist eine Community. Sie nutzt sie, um ihre Watchlist zu verwalten, Favoriten zu liken und sich mit Freund:innen über Titel auszutauschen. Besonders wichtig sind ihr Freundesprofile, visuelle Übersichten und einfache Wege, Empfehlungen zu teilen.
+
+### 3_Ziele:
+
+Titel, die ihr empfohlen wurden, nicht vergessen
+
+Mit Freund:innen synchron bleiben
+
+Eigene Vorlieben zeigen und sich inspirieren lassen
+
+### 3_Probleme ohne App:
+
+Screenshot-Chaos bei Empfehlungen
+
+Keine zentrale Stelle, um Serienfortschritte festzuhalten

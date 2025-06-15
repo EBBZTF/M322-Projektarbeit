@@ -11,5 +11,7 @@
     <toc-element topic="Personas.md"/>
     <toc-element topic="start-seite.md"/>
   <toc-element topic="TODO.md"/>
+    <toc-element topic="usability-konzept.md"/>
+    <toc-element topic="feedback-auswertung.md"/>
 
 </instance-profile>
